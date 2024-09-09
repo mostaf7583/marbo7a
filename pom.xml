@@ -86,7 +86,6 @@
       <version>5.5.11</version>
     </dependency>
     <dependency />
-    <dependency />
   </dependencies>
   <build>
     <plugins>
