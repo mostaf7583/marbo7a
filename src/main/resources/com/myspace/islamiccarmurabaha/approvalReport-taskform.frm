@@ -1,0 +1,1 @@
+{"id":"e8bdc003-35af-459c-93f8-e1847191f97e","name":"approvalReport-taskform.frm","model":{"taskName":"approvalReport","processId":"IslamicCarMurabaha.IslamicCarMurabaha","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
