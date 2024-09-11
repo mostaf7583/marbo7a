@@ -1,0 +1,1 @@
+{"id":"b658d4b6-6df1-4995-be5d-80444b68b6f3","name":"iscoreRejection-taskform.frm","model":{"taskName":"iscoreRejection","processId":"IslamicCarMurabaha.IslamicCarMurabaha","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
